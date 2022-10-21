@@ -44,12 +44,13 @@
     h1 {
         font-size: 53px;
         font-family: 'Arial';
-        color: #4433ff;
-        font-weight: 400;
+        color: #fff;
+        font-weight: 8000;
         margin-top: 0;
         position: relative;
         margin-bottom: 40px;
         left: 10px;
+        text-shadow: 2px 2px #4433ff;
 
         &::before {
             content: '';
