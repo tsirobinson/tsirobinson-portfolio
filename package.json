@@ -1,7 +1,7 @@
 {
   "name": "tsirobinson-portfolio",
   "version": "0.1.0",
-  "homepage": "https://tsirobinson.github.io/tsirobinson-portfolio",
+  "homepage": "https://tsirobinson.github.io/tsirobinson-portfolio/#",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
