@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tsirobinson-portfolio/static/css/main.2f7cae2f.css",
-    "main.js": "/tsirobinson-portfolio/static/js/main.e9cef8a9.js",
+    "main.js": "/tsirobinson-portfolio/static/js/main.fb27de80.js",
     "static/js/787.aa01a265.chunk.js": "/tsirobinson-portfolio/static/js/787.aa01a265.chunk.js",
     "static/media/helvetica-neu.ttf": "/tsirobinson-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/logo_sub.png": "/tsirobinson-portfolio/static/media/logo_sub.19f3ab25ab15fd848b30.png",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/tsirobinson-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/tsirobinson-portfolio/index.html",
     "main.2f7cae2f.css.map": "/tsirobinson-portfolio/static/css/main.2f7cae2f.css.map",
-    "main.e9cef8a9.js.map": "/tsirobinson-portfolio/static/js/main.e9cef8a9.js.map",
+    "main.fb27de80.js.map": "/tsirobinson-portfolio/static/js/main.fb27de80.js.map",
     "787.aa01a265.chunk.js.map": "/tsirobinson-portfolio/static/js/787.aa01a265.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f7cae2f.css",
-    "static/js/main.e9cef8a9.js"
+    "static/js/main.fb27de80.js"
   ]
 }
